@@ -2,7 +2,7 @@
 # Unreal Engine Map Maker
 This Project is desing to work with any project all the file you need to work is inside the folder MapSystem, there is no demo scene but if you follow the documeation is realy easy to integrate.
 
-# Tutorail [UnrealGaimeDev](https://youtu.be/oxPc2iR6JJw)
+# Tutorial [link](https://youtu.be/oxPc2iR6JJw)
 
 ### 1 Capture you scene and create a map
 In Order to proper test you scene you need to create a visual representation of you level but fortunaly we have a component call **BP_MapWorldCapture** the location is inside **Actors/BP_MapWorldCapture**, to proper use this actor you need to create 2 **target points** in you scene the first one you name **LowerRightCorner** and the second one you name **UpperLeftCorner** note tha the name is not import we just using for organization, you need to place those component in a way they to a zipp line so we can create a square map of you scene, now you need to add another actor call **BP_MapBoundaries** locate at **Actors/MapBoundaries/BP_MapBoundaries** on you add this actor you need to add the **target points** references that actor will set at the center of the square buy default once you done that you can add your **BP_MapWorldCapture** actor and follow the step 2.
