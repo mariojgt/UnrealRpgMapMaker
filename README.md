@@ -19,6 +19,8 @@ You need to add the **BPC_WorldMap** to actor that are based in character ther i
 
 Make sure to check the source of this tutorial in the link below.
 Original tutorial source:
+
 video : https://www.youtube.com/watch?v=UCt09HtUOqk&list=PLmKKTERcjTPJp9UzIzVIzLOY7lcplWasW&index=1
+
 Chanel: [UnrealGaimeDev](https://www.youtube.com/channel/UCRnPBe1tJpXA0lccx_U1mww)
 
