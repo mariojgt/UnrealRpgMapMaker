@@ -14,7 +14,7 @@ In the actor **BP_MapWorldCapture** is only required to add the reference of the
 ### 3 Map settings
 on the folder **MapSettings** in the **DT_MapSettings** you can setup your paraments such as the texture of map you have created more information check the tooltip in the varaibles, one more important thing in the **BP_MapBoundaries** you need to set up the varaibles **Map Datable Row Id** to the row id settings you want so in this way tou can have multiple maps
 
-### 4 Actor setup you
+### 4 Actor setup
 You need to add the **BPC_WorldMap** to actor that are based in character ther is some methods that is required to start this actor in order to work right, the event **StartMap** will trigger all the the fuction and method needed to start the map fuctions and **ToogleMap**  this event will show and hide the map this method will get the owner actor cast to character and get the player controller and open the map
 
 
