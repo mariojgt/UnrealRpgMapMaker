@@ -19,6 +19,19 @@ You need to add the **BPC_WorldMap** to actor that are based in character ther i
 
 
 
+Features:
+
+1. Fully rpg map
+2. Display actors position on the map
+3. display markers ,fast travel and fog of war points on the map
+4. radar system simular to god of war
+5. map regions (still working in progress) you have have multiple map boundaries and the player touch those areas will update the map
+
+Planed features
+
+1. Saving and loading system for the marker, player markers and possible the player position
+2. Radar settings refactor, i need to update the radar config settings varaible
+
 
 
 Make sure to check the source of this tutorial in the link below.
