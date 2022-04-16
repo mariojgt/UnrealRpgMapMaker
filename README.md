@@ -33,9 +33,3 @@ Planed features
 2. Radar settings refactor, i need to update the radar config settings varaible
 
 
-
-Make sure to check the source of this tutorial in the link below.
-Original tutorial source:
-
-video : https://www.youtube.com/watch?v=UCt09HtUOqk&list=PLmKKTERcjTPJp9UzIzVIzLOY7lcplWasW&index=1
-
