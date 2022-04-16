@@ -39,5 +39,3 @@ Original tutorial source:
 
 video : https://www.youtube.com/watch?v=UCt09HtUOqk&list=PLmKKTERcjTPJp9UzIzVIzLOY7lcplWasW&index=1
 
-Chanel: [UnrealGaimeDev](https://www.youtube.com/channel/UCRnPBe1tJpXA0lccx_U1mww)
-
